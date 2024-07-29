@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openjdk.jmh:jmh-core:1.34" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.openjdk.jmh" artifactId="jmh-core" version="1.34" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jmh/jmh-core/1.34/36d786a56ce4955779ae69d52be7081551490bb1/jmh-core-1.34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
