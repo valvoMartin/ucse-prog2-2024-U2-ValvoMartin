@@ -1,10 +1,10 @@
 # Reporte de cobertura
 
-![image](\Ejemplo\assets\Screenshot 2024-07-28 211807.png)
+![image](\Ejemplo\assets\Screenshot%202024-07-28%20211807.png)
 
 # Benchmark
 
-![image](\Ejemplo\assets\Screenshot 2024-07-28 215856.png)
+![image](\Ejemplo\assets\Screenshot%202024-07-28%20215856.png)
 
 En las pruebas realizadas se usa el modo "avgt", cantidad de operaciones completadas por milisegundo en promedio.
 
